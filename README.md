@@ -5,7 +5,13 @@
 
  In large-scale retail, customers sometimes receive damaged, unavailable, or incorrect items, leading to frustration, high return rates, and operational losses.
 
+<img width="1460" height="705" alt="image" src="https://github.com/user-attachments/assets/750c9090-8a1e-4c6a-97d1-1c119757e461" />
+
+
 💡 My Solution – OrderAssure:
+
+ <img width="1254" height="599" alt="image" src="https://github.com/user-attachments/assets/140a2f6e-6a52-4f40-8ac5-0ef428e478d3" />
+
 
  A real-time, human-in-the-loop order reconciliation system.
 
