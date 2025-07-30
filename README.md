@@ -9,11 +9,12 @@
 
 
 💡 My Solution – OrderAssure:
+  
+   A real-time, human-in-the-loop order reconciliation system.
 
  <img width="1254" height="599" alt="image" src="https://github.com/user-attachments/assets/140a2f6e-6a52-4f40-8ac5-0ef428e478d3" />
 
 
- A real-time, human-in-the-loop order reconciliation system.
 
 ---> When a picker detects an issue (damaged/missing item), the system places the order on hold, escalates it to a manager, and contacts the customer for consent to cancel, reroute, or approve changes.
 
