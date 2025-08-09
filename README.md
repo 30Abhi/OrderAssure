@@ -3,14 +3,14 @@
 
 🔍 The Challenge:
 
- In large-scale retail, customers sometimes receive damaged, unavailable, or incorrect items, leading to frustration, high return rates, and operational losses.
+ In large scale retail, customers sometimes receive damaged, unavailable, or incorrect items, leading to frustration, high return rates, and operational losses.
 
 <img width="1460" height="705" alt="image" src="https://github.com/user-attachments/assets/750c9090-8a1e-4c6a-97d1-1c119757e461" />
 
 
 💡 My Solution – OrderAssure:
   
-   A real-time, human-in-the-loop order reconciliation system.
+   A real time, human in the loop order reconciliation system.
 
  <img width="1254" height="599" alt="image" src="https://github.com/user-attachments/assets/140a2f6e-6a52-4f40-8ac5-0ef428e478d3" />
 
@@ -41,7 +41,7 @@
 
 3. Smart Exception Prediction
 
-   3.1 Train anomaly‑detection algorithms on historical flag events to pre‑emptively highlight high‑risk orders (e.g., fragile SKUs, new items).
+   3.1 Train anomaly‑detection algorithms on historical flag events to pre‑emptively highlight high risk orders (e.g., fragile SKUs, new items).
    3.2 Alert pickers before they even scan problematic products, further reducing disruptions.
 
 
